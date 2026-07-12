@@ -55,7 +55,8 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 <img width="783" height="571" alt="cloud-computing" src="https://github.com/user-attachments/assets/fa02cdb2-d460-495b-86a2-5145d11952d5" />
 
 
-** On-prem vs Cloud**
+**On-prem vs Cloud**
+
 <img width="2560" height="1396" alt="onpremvscloud" src="https://github.com/user-attachments/assets/0c80559c-430b-4e47-9c11-ee5729319a1b" />
 
 
