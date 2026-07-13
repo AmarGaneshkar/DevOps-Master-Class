@@ -109,7 +109,8 @@ cat hosts
 
 # Linux Administration:
 
-Architecture:
+**Architecture:**
+
 User
 ↓
 Group
@@ -118,7 +119,7 @@ Permissions
 ↓
 Files
 
-Commands:
+**Commands:**
 
 useradd
 usermod
@@ -128,30 +129,26 @@ id
 whoami
 sudo
 
-Permissions:
-
+**Permissions:**
 -rwxr-xr--
 Owner
 Group
 Others
 
-Explain:
-
+**Explain:**
 chmod
 chown
 chgrp
 
-Demo:
-
-1. Create Users
-
-developer,tester,devops
+**Demo:**
+1. Create Users: 
+developer, tester,devops
 
 2. Assign groups
 
 Grant sudo permission.
 
-systemctl commands:
+**systemctl commands:**
 
 systemctl status nginx
 systemctl start nginx
@@ -159,24 +156,20 @@ systemctl stop nginx
 systemctl restart nginx
 systemctl enable nginx
 
-Package Manager:
-
+**Package Manager:**
 OS - Ubuntu
 
 apt
-
 apt update
-
 apt install nginx
 
 OS- Amazon Linux
 
 yum
-
 dnf
 
 
-Cron Jobs:
+**Cron Jobs:**
 
 Example of Backup
 
