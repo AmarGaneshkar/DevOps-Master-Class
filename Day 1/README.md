@@ -66,18 +66,18 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 - Hybarid
 
 ## Demo
-Install VS Code
-Install Git
-Create a GitHub Account
-Install AWS CLI
-Install Docker Desktop
-Install kubectl
-Install Visual Studio Code extensions
+1. Install VS Code
+2. Install Git
+3. Create a GitHub Account
+4. Install AWS CLI
+5. Install Docker Desktop
+6. Install kubectl
+7. Install Visual Studio Code extensions
 
 **Interview Questions**
-What is DevOps?
-Why is DevOps needed?
-What are the phases of the DevOps lifecycle?
-What is Continuous Integration?
-What is Continuous Delivery?
-What is Continuous Deployment?
+1. What is DevOps?
+2. Why is DevOps needed?
+3. What are the phases of the DevOps lifecycle?
+4. What is Continuous Integration?
+5. What is Continuous Delivery?
+6. What is Continuous Deployment?
