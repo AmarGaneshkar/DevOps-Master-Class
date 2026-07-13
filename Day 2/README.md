@@ -1,4 +1,4 @@
-# Day 04 - Linux Fundamentals & File System
+# Day 02 - Linux Fundamentals & File System
 
 ## 🎯 Learning Objectives
 
@@ -13,7 +13,7 @@ After completing this lesson, you will understand:
 
 ---
 
-# Why Linux?
+## Why Linux?
 
 Nearly 90% of cloud servers run Linux.
 
@@ -25,7 +25,7 @@ RHEL
 CentOS
 Most Kubernetes worker nodes also run Linux.
 
-# Linux Architecture
+## Linux Architecture
 ```mermaid
 flowchart TD
 
@@ -41,7 +41,7 @@ A --> B
 B --> C
 C --> D
 ```
-# Linux File System
+## Linux File System
 
 /
 
@@ -63,7 +63,7 @@ C --> D
 ├── usr
 └── var
 
-Example:
+**Example:**
 
 /etc
 
@@ -79,7 +79,7 @@ Examples
 
 /etc/systemd
 
-# Essesntial Commands
+## Essesntial Commands
 pwd
 ls
 cd
@@ -96,7 +96,7 @@ wc
 sort
 uniq
 
-# Demo
+## Demo
 
 1. Launch Ubuntu EC2
 2. SSH
@@ -107,7 +107,7 @@ ls -lrt
 cd /etc
 cat hosts
 
-# Linux Administration:
+## Linux Administration:
 
 Architecture:
 User
@@ -183,7 +183,7 @@ Example of Backup
 0 2 * * * backup.sh
 
 
-# Real-Time Scenario
+## Real-Time Scenario
 
 Production
 
@@ -197,7 +197,7 @@ Enable
 
 Verify.
 
-# Assignment
+## Assignment
 
 Install
 
