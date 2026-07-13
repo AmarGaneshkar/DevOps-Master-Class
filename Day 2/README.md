@@ -79,7 +79,7 @@ Examples
 
 /etc/systemd
 
-# Essesntial Commands
+# Essential Commands
 pwd
 ls
 cd
