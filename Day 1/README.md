@@ -1,14 +1,14 @@
-**Phase 1 (Days 1–3): DevOps Foundation**
+## DevOps Foundation
 
 The first three days build the mindset before introducing tools.
 
-**Day 1 – Introduction to DevOps**
+# Day 1 – Introduction to DevOps
 Learning Objectives
 Understand DevOps culture.
 Learn the role of a DevOps Engineer.
 Understand collaboration between Development and Operations.
 
-**Topics**
+# Topics
 
 **What is DevOps?**
 
@@ -30,7 +30,7 @@ DevOps is adopted to bridge the gap between software developers and IT operation
 
 
 
-**Traditional IT vs DevOps**
+# Traditional IT vs DevOps
 
 ![alt text](Traditional-IT-VS-DevOps.jpg)
 
@@ -50,12 +50,12 @@ Automation: Identify repetitive manual tasks and write automation scripts (using
 Monitoring & Troubleshooting: Set up logging and observability dashboards using tools like Prometheus and Grafana to identify performance bottlenecks and resolve production issues proactively.Container Orchestration: Manage application workloads across clusters using Docker and Kubernetes.
 Security & Compliance: Embed security best practices (DevSecOps) directly into the deployment pipeline, including automated vulnerability scanning and secrets management
 
-**What is Cloud Computing?**
+# What is Cloud Computing?
 Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud.
 <img width="783" height="571" alt="cloud-computing" src="https://github.com/user-attachments/assets/fa02cdb2-d460-495b-86a2-5145d11952d5" />
 
 
-**On-prem vs Cloud**
+# On-prem vs Cloud
 
 <img width="2560" height="1396" alt="onpremvscloud" src="https://github.com/user-attachments/assets/0c80559c-430b-4e47-9c11-ee5729319a1b" />
 
@@ -65,7 +65,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 - Public
 - Hybarid
 
-**Demo**
+# Demo
 Install VS Code
 Install Git
 Create a GitHub Account
