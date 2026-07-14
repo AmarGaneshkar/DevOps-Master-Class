@@ -1,6 +1,6 @@
 # DevOps Foundation
 
-The first three days build the mindset before introducing tools.
+The first build the mindset before introducing tools.
 
 ## Day 1 – Introduction to DevOps
 Learning Objectives
