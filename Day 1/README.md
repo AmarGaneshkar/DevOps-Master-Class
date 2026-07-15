@@ -57,6 +57,7 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 5. Install Docker Desktop
 6. Install kubectl
 7. Install Visual Studio Code extensions
+8. MobaXtrem/Putty
 
 **Interview Questions**
 1. What is DevOps?
