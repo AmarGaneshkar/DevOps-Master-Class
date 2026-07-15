@@ -175,6 +175,39 @@ Example of Backup
 
 0 2 * * * backup.sh
 
+## Processes
+- Networking
+- SSH
+- Logs
+- Disk
+- Memory
+- CPU
+- Bash
+
+## Process Management
+**Commands:**
+- ps
+- top
+- htop
+- kill
+- killall
+- pkill
+- nice
+- renice
+
+## Networking
+**Commands:**
+- ip
+- ifconfig
+- ss
+- netstat
+- ping
+- curl
+- wget
+- dig
+- nslookup
+- host
+- traceroute
 
 ## Real-Time Scenario
 
