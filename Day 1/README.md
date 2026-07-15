@@ -27,22 +27,6 @@ Infrastructure as Code (IaC): Treating infrastructure setup (like servers and ne
 **Why DevOps?**
 DevOps is adopted to bridge the gap between software developers and IT operations. It enables companies to release software faster, improve system reliability, and reduce deployment failures through continuous automation and collaboration
 
-
-
-
-## Traditional IT vs DevOps
-
-![alt text](Traditional-IT-VS-DevOps.jpg)
-
-**Key Benefits of DevOps:**
-1. Faster Time to Market. DevOps utilizes CI/CD (Continuous Integration and Continuous Delivery) to break code into smaller, manageable chunks. By testing and releasing updates automatically, organizations can release new features and patches rapidly, keeping them highly competitive.
-2. Improved Collaboration and Culture Traditionally, development and operations worked in isolated "silos," which caused friction during code handoffs. DevOps breaks down these barriers. Teams share responsibilities, tools, and objectives, which fosters a transparent, blame-free culture and highly productive workflows.
-3. Higher Reliability and Quality. Automating processes—like regression testing, deployment monitoring, and Infrastructure as Code (IaC)—removes human errors inherent in manual updates. If something goes wrong, version control makes rolling back to a stable build almost instantaneous, ensuring consistent system uptime.
-4. Accelerated Problem Resolution. Because teams push code in smaller batches, it becomes much easier to trace the exact cause of a bug or system crash. Faster error detection means fixes are resolved in minutes rather than hours, resulting in a significantly smoother user experience.
-
-**DevOps Principles:**
-DevOps is a cultural and technical methodology that unifies software development (Dev) and IT operations (Ops). Its primary principles include breaking down organizational silos, automating software lifecycles, and fostering shared accountability to deliver high-quality software safely, faster, and with continuous improvement
-
 **DevOps Engineer Responsibilities:**
 Pipeline Management: Build, maintain, and optimize CI/CD pipelines to automate testing and code deployment.
 Infrastructure as Code (IaC): Provision and manage infrastructure using tools like Terraform or CloudFormation rather than manual configuration.
