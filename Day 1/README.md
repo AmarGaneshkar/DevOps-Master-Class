@@ -28,11 +28,11 @@ Infrastructure as Code (IaC): Treating infrastructure setup (like servers and ne
 DevOps is adopted to bridge the gap between software developers and IT operations. It enables companies to release software faster, improve system reliability, and reduce deployment failures through continuous automation and collaboration
 
 **DevOps Engineer Responsibilities:**
-Pipeline Management: Build, maintain, and optimize CI/CD pipelines to automate testing and code deployment.
-Infrastructure as Code (IaC): Provision and manage infrastructure using tools like Terraform or CloudFormation rather than manual configuration.
-Automation: Identify repetitive manual tasks and write automation scripts (using Python, Bash, or Ruby) to improve efficiency.
-Monitoring & Troubleshooting: Set up logging and observability dashboards using tools like Prometheus and Grafana to identify performance bottlenecks and resolve production issues proactively.Container Orchestration: Manage application workloads across clusters using Docker and Kubernetes.
-Security & Compliance: Embed security best practices (DevSecOps) directly into the deployment pipeline, including automated vulnerability scanning and secrets management
+- Pipeline Management: Build, maintain, and optimize CI/CD pipelines to automate testing and code deployment.
+- Infrastructure as Code (IaC): Provision and manage infrastructure using tools like Terraform or CloudFormation rather than manual configuration.
+- Automation: Identify repetitive manual tasks and write automation scripts (using Python, Bash, or Ruby) to improve efficiency.
+- Monitoring & Troubleshooting: Set up logging and observability dashboards using tools like Prometheus and Grafana to identify performance bottlenecks and resolve production issues proactively.Container Orchestration: - - Manage application workloads across clusters using Docker and Kubernetes.
+- Security & Compliance: Embed security best practices (DevSecOps) directly into the deployment pipeline, including automated vulnerability scanning and secrets management
 
 ## What is Cloud Computing?
 Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud.
