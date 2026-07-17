@@ -9,8 +9,6 @@ After completing this lesson, you will understand:
 - Important Directories
 - Navigation Commands
 - File Operations
-- Absolute vs Relative Path
-
 ---
 
 ## Why Linux?
