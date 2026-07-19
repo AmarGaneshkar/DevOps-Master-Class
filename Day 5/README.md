@@ -41,11 +41,13 @@ Network security protects your workloads by allowing only the required traffic.
 
 ## AWS Network Security Group Architecture
 
+```mermaid
 flowchart LR
 
 Internet --> SecurityGroup
 
 SecurityGroup --> EC2
+
 
 ![alt text](image.png)
 
