@@ -141,6 +141,111 @@ High-performance APIs
 | TLS Termination | ✅   | ✅   |
 | TCP/UDP         | ❌   | ✅   |
 
+## Gateway Load Balancer (Overview)
+
+GWLB integrates virtual security appliances.
+
+### Target Groups
+
+Target Groups define where traffic should go.
+
+Supported Targets
+
+EC2
+IP Address
+Lambda
+
+
+### Health Checks
+
+ALB continuously verifies application health.
+
+GET /health
+↓
+200 OK
+↓
+Healthy
+
+If a server returns 500 or times out, ALB removes it from rotation automatically.
+
+### Listener
+
+A Listener checks incoming requests.
+
+Example
+
+HTTPS :443
+↓
+Forward
+↓
+
+### Target Group
+
+| Port | Protocol |
+| ---- | -------- |
+| 80   | HTTP     |
+| 443  | HTTPS    |
+
+## Kubernetes Ingress
+
+Explain
+
+Ingress
+↓
+Service
+↓
+Pods
+
+Mention that the AWS Load Balancer Controller automatically creates an ALB from Kubernetes Ingress resources.
+
+Ingress provides Layer 7 routing for Kubernetes.
+
+
+## Demo 1 - Create Application Load Balancer
+
+Launch :
+
+- Two EC2 instances
+
+- Install Nginx
+
+Modify home page:
+
+- Server-1
+
+Welcome from Server-1
+
+- Server-2
+
+Welcome from Server-2
+
+- Create
+- Target Group
+- ALB
+- Listener (HTTP :80)
+
+Verify browser refresh alternates between servers.
+
+## Assignment
+- Create an ALB with two EC2 instances.
+- Configure Target Groups.
+- Add an HTTPS Listener.
+- Configure HTTP to HTTPS redirection.
+- Test Health Checks.
+- Create a second Target Group and implement path-based routing (/api).
+- Document architecture, screenshots, and observations.
+
+## Interview Questions
+- What is an Elastic Load Balancer?
+- Difference between ALB and NLB?
+- What is a Target Group?
+- What is a Listener?
+- What is TLS Termination?
+- Difference between SSL Passthrough and TLS Termination?
+- How does Health Checking work?
+- What happens when an EC2 instance becomes unhealthy?
+- Explain Sticky Sessions.
+- How does Kubernetes Ingress integrate with an ALB?
 
 Reference:
 https://portal.tutorialsdojo.com/courses/playcloud-sandbox-aws/lessons/creating-your-first-application-load-balancer/
