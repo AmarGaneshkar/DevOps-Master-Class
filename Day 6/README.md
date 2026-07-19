@@ -169,7 +169,6 @@ index.html
 
 ## Digram
 
-```mermaid
 flowchart LR
 
 Standard --> IA
