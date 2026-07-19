@@ -88,6 +88,8 @@ sc1	     Cold Storage
 
 ## Amazon Machine Image (AMI)
 
+![alt text](image-1.png)
+
 ### AMI contains
 
 Operating System
