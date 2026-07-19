@@ -256,7 +256,6 @@ Static Website Hosting
 
 Access website using S3 URL.
 
-```mermaid
 flowchart TD
 
 Browser
